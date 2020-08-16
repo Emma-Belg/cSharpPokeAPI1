@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LnHnP+TuvDCpuDjnIU1PJdNH7bxedv/WjHABMsBoCHKPPk+vaD5Mu2bBLmcayq0Uzk3oXLR9o3X1jxzgiDVFKw==",
+  "success": true,
+  "projectFilePath": "/home/emma/Documents/C#/PokeAPI/PokeAPI.csproj",
+  "expectedPackageFiles": [
+    "/home/emma/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
